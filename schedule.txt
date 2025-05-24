@@ -1,2 +1,3 @@
-no competition ongoing
-1234
+1:Red
+5:Blue
+20:Red
